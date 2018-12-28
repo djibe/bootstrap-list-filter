@@ -3,7 +3,7 @@ Bootstrap List Filter
 
 Search widget to filter Bootstrap lists
 
-**Compatible with Bootstrap 3.3.7!**
+**Compatible with Bootstrap 3.3.7 and Bootstrap 4.2
 
 Author: Stefano Cudini [labs.easyblog.it](http://labs.easyblog.it/)
 
